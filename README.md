@@ -22,6 +22,8 @@ Sou apaixonado por tecnologia, resolução de problemas e criação de soluçõe
 - HTML5
 - CSS3
 - JavaScript
+- Bootstrap
+- React
 
 ### 🛠️ Ferramentas & Tecnologias:
 - Git & GitHub
