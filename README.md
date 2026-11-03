@@ -1,6 +1,8 @@
 # 👋 Olá, eu sou Guilherme Ramos
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+🎓 Aluno DIO.me 
+🎓 Santander Open Academy
 💻 Desenvolvedor Python  
 🚀 Em constante evolução no mundo da tecnologia  
 
@@ -40,7 +42,6 @@ Sou apaixonado por tecnologia, resolução de problemas e criação de soluçõe
 - Banco de Dados
 - Programação Orientada a Objetos
 - APIs e automações com Python
-
 ---
 
 ## 📈 Objetivos
