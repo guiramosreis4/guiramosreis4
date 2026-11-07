@@ -1,25 +1,25 @@
-# 👋 Olá, eu sou Guilherme Ramos
+# 👋 Hello, I’m Guilherme Ramos
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
-🎓 Aluno DIO.me 
-🎓 Santander Open Academy
-💻 Desenvolvedor Python  
-🚀 Em constante evolução no mundo da tecnologia  
-
----
-
-## 👨‍💻 Sobre mim
-
-Tenho 28 anos e atualmente estou cursando **Análise e Desenvolvimento de Sistemas**.  
-Possuo conhecimentos acadêmicos e práticos voltados para desenvolvimento de software, buscando minha oportunidade para atuar como **Desenvolvedor Júnior**.
-
-Sou apaixonado por tecnologia, resolução de problemas e criação de soluções através da programação.
+🎓 Student of Systems Analysis and Development (SAD)
+🎓 DIO.me student
+🎓 Santander Open Academy participant
+💻 Python Developer
+🚀 Constantly evolving in the world of technology
 
 ---
 
-## 🚀 Tecnologias & Linguagens
+## 👨‍💻 About Me
 
-### 💡 Linguagens que utilizo:
+I am 28 years old and currently pursuing a degree in **Systems Analysis and Development**.  
+I possess both academic and practical knowledge in software development, and I am seeking an opportunity to work as a **Junior Developer**.
+
+I am passionate about technology, problem-solving, and creating solutions through programming.
+
+---
+
+## 🚀 Technologies & Languages
+
+### 💡 Languages ​​I use:
 - Python 🐍
 - HTML5
 - CSS3
@@ -27,30 +27,31 @@ Sou apaixonado por tecnologia, resolução de problemas e criação de soluçõe
 - Bootstrap
 - React
 
-### 🛠️ Ferramentas & Tecnologias:
+### 🛠️ Tools & Technologies:
 - Git & GitHub
 - VS Code
-- Lógica de Programação
-- Algoritmos e Estrutura de Dados
+- Programming Logic
+- Algorithms and Data Structures
 - Adobe Photoshop
 - Sony Vegas
 - Adobe Premiere
 
-## 📚 Atualmente estudando
+## 📚 Currently Studying
 
-- Desenvolvimento Web
-- Banco de Dados
-- Programação Orientada a Objetos
-- APIs e automações com Python
----
-
-## 📈 Objetivos
-
-Busco crescer profissionalmente na área de desenvolvimento, adquirindo experiência prática e contribuindo em projetos que gerem impacto positivo.
+- Web Development
+- Databases
+- Object-Oriented Programming
+- APIs and automation with Python
 
 ---
 
-## 📫 Contato
+## 📈 Goals
+
+I aim to grow professionally in the field of software development, gaining practical experience and contributing to projects that create a positive impact.
+
+---
+
+## 📫 Contact
 
 📧 guiramosreis4@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/guilherme-ramos-23746827b/  
@@ -58,4 +59,4 @@ Busco crescer profissionalmente na área de desenvolvimento, adquirindo experiê
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+⭐ Thanks for visiting my profile!
